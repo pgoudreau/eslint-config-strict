@@ -35,7 +35,7 @@
   "main": "es6.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/keithamus/eslint-config-strict.git"
+    "url": "https://github.com/pgoudreau/eslint-config-strict.git"
   },
   "scripts": {
     "semantic-release": "semantic-release pre && npm publish && semantic-release post",
