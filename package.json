@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-strict",
-  "version": "0.0.0-development",
+  "name": "@pgoudreau/eslint-config-strict",
+  "version": "0.0.2",
   "description": "ESLint sharable config for strict linting",
   "keywords": [
     "check",
@@ -35,7 +35,7 @@
   "main": "es6.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/keithamus/eslint-config-strict.git"
+    "url": "https://github.com/pgoudreau/eslint-config-strict.git"
   },
   "scripts": {
     "semantic-release": "travis-after-all && semantic-release pre && npm publish && semantic-release post",
