@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-strict",
+  "name": "@pgoudreau/eslint-config-strict",
   "version": "0.0.0",
   "description": "ESLint sharable config for strict linting",
   "keywords": [
@@ -35,7 +35,7 @@
   "main": "es6.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pgoudreau/eslint-config-strict.git"
+    "url": "git+https://github.com/pgoudreau/eslint-config-strict.git"
   },
   "scripts": {
     "semantic-release": "semantic-release pre && npm publish && semantic-release post",
@@ -74,5 +74,9 @@
     "ghooks": "^2.0.4",
     "semantic-release": "^17.0.4",
     "validate-commit-msg": "^2.14.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/pgoudreau/eslint-config-strict/issues"
+  },
+  "homepage": "https://github.com/pgoudreau/eslint-config-strict#readme"
 }
