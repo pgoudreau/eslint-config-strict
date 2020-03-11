@@ -1,6 +1,6 @@
 {
   "name": "@pgoudreau/eslint-config-strict",
-  "version": "0.0.0",
+  "version": "14.0.2",
   "description": "ESLint sharable config for strict linting",
   "keywords": [
     "check",
